@@ -1,4 +1,4 @@
-package com.ravi.cal.RaviCalculator;
+upackage com.ravi.cal.RaviCalculator;
 
 import java.util.Scanner;
 
@@ -35,7 +35,7 @@ public class Calculator  {
 	
 	public long mulFucn(long first, long second){
 		
-		return first/second;
+		return first*second;
 	}
 }
 
